@@ -17,16 +17,16 @@
 ## Детали реализации
 
 1. baseUrl вынесен в переменные конфига
-![image](https://raw.githubusercontent.com/German-D/new_cypress/main/static/baseUrl.png)
+![image](https://raw.githubusercontent.com/OlyaRyabovaQA/cypress.js/refs/heads/main/baseUrl%20вынесен%20в%20переменные%20конфига.png)
 
 2. Применение хуков beforeEach и afterEach
-![image](https://raw.githubusercontent.com/German-D/new_cypress/main/static/hooks.png)
+![image](https://raw.githubusercontent.com/OlyaRyabovaQA/cypress.js/refs/heads/main/Применение%20хуков%20beforeEach%20и%20afterEach.png)
 
 3. Переменные данные для авторизации вынесены в отдельный файл
-![image](https://raw.githubusercontent.com/German-D/new_cypress/main/static/user_data.png)
+![image](https://raw.githubusercontent.com/OlyaRyabovaQA/cypress.js/refs/heads/main/Переменные%20данные%20для%20авторизации%20вынесены%20в%20отдельный%20файл.png)
 
 4. Каждая страница описана в формате объекта с локаторами
-![image](https://raw.githubusercontent.com/German-D/new_cypress/main/static/locators.png)
+![image](https://raw.githubusercontent.com/OlyaRyabovaQA/cypress.js/refs/heads/main/Каждая%20страница%20описана%20в%20формате%20объекта%20с%20локаторами.png)
 
 ## Локальный запуск тестов (из терминала)
 1. Скачать проект
@@ -54,4 +54,4 @@ npx cypress run --spec cypress/e2e/lesson_locators.cy.js --browser chrome
 
 ## Автор
 
-Герман Дольников ([@dolnikov](https://t.me/dolnikov))
+Оля Рябова ([@Olya_Riabova](https://t.me/Olya_Riabova))
