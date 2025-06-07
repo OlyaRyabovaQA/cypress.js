@@ -23,7 +23,7 @@
 ![image](https://raw.githubusercontent.com/OlyaRyabovaQA/cypress.js/refs/heads/main/Применение%20хуков%20beforeEach%20и%20afterEach.png)
 
 3. Переменные данные для авторизации вынесены в отдельный файл
-![image](https://github.com/OlyaRyabovaQA/cypress.js/blob/main/Переменные%20данные%20для%20авторизации%20вынесены%20в%20отдельный%20файл.png)
+![image](https://raw.githubusercontent.com/OlyaRyabovaQA/cypress.js/refs/heads/main/Переменные%20данные%20для%20авторизации%20вынесены%20в%20отдельный%20файл.png)
 
 4. Каждая страница описана в формате объекта с локаторами
 ![image](https://raw.githubusercontent.com/OlyaRyabovaQA/cypress.js/refs/heads/main/Каждая%20страница%20описана%20в%20формате%20объекта%20с%20локаторами.png)
